@@ -1,0 +1,3 @@
+C:/Users/Nyasha/CLionProjects/PCA/cmake-build-debug/CMakeFiles/PCA.dir
+C:/Users/Nyasha/CLionProjects/PCA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nyasha/CLionProjects/PCA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

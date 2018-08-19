@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Nyasha/CLionProjects/PCA/pca.cpp
+fstream
+-
+iostream
+-
+vector
+-
+pca.h
+C:/Users/Nyasha/CLionProjects/PCA/pca.h
+
+C:/Users/Nyasha/CLionProjects/PCA/pca.h
+string
+-
+
