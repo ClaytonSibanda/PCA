@@ -3,4 +3,4 @@ project(PCA)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(PCA main.cpp pca.h pca.cpp)
+add_executable(PCA main.cpp pca.h pca.cpp main.cpp)

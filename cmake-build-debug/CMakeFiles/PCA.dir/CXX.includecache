@@ -6,14 +6,12 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Nyasha/CLionProjects/PCA/pca.cpp
-fstream
--
+C:/Users/Nyasha/CLionProjects/PCA/main.cpp
 iostream
 -
-vector
+fstream
 -
-algorithm
+vector
 -
 pca.h
 C:/Users/Nyasha/CLionProjects/PCA/pca.h
