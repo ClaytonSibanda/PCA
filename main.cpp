@@ -12,7 +12,7 @@ using namespace std;
 
 int main() {
 
-    SBNCLA002::readFile("C:\\Users\\Nyasha\\CLionProjects\\PCA\\data.txt");
+    SBNCLA002::readFile("data.txt");
     vector<float> data=SBNCLA002::calc_covariance_matrix();
 
     int count =1;

@@ -16,7 +16,19 @@ vector
 pca.h
 C:/Users/Nyasha/CLionProjects/PCA/pca.h
 
+C:/Users/Nyasha/CLionProjects/PCA/pca.cpp
+fstream
+-
+iostream
+-
+algorithm
+-
+pca.h
+C:/Users/Nyasha/CLionProjects/PCA/pca.h
+
 C:/Users/Nyasha/CLionProjects/PCA/pca.h
 string
+-
+vector
 -
 

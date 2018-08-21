@@ -6,6 +6,8 @@
 #define PCA_PCA_H
 
 #include <string>
+#include <vector>
+
 namespace SBNCLA002{
     void readFile(std::string file_name);
     float calc_covariance(std::vector<float> &X,std::vector<float> &Y);
